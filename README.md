@@ -1,12 +1,6 @@
 <h1 align="center">Hangdev</h1>
 
-![demo](https://i.imgur.com/HCqTMBy.mp4)
-
-<p align="center">
-<link href=https://crates.io/crates/hangdev">
-<img src="https://img.shields.io/crates/d/hangdev?color=C04000" />
-</link>
-</p>
+![demo](https://i.imgur.com/pwutUSK.gif)
 
 ### Overview
 

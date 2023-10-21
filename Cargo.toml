@@ -1,0 +1,23 @@
+[package]
+name = "hangdev"
+version = "0.1.0"
+edition = "2021"
+include = [
+	"src/**/*",
+	"Cargo.toml",
+	"README.md",
+	"LICENSE"
+]
+description = "The developers' Hangman! This is a simple CLI game to play when you're bored and don't wish to play something fancy!"
+keywords = [
+	"cli",
+	"game",
+	"command-line"
+]
+homepage = "https://github.com/27Saumya/hangdev"
+repository = "https://github.com/27Saumya/hangdev"
+license = "MIT"
+
+[dependencies]
+colored = "2.0.4"
+reqwest = { version = "0.11.22", features = ["blocking", "json"] }

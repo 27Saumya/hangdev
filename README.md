@@ -4,6 +4,10 @@
   <img src="https://i.imgur.com/pwutUSK.gif" alt="Demo" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/crates/d/hangdev?color=C04000" />
+</p>
+
 ### Overview
 
 This is a blazing fast ⚡, command line game, inspired from Hangman, in which you have to guess a word by entering one letter at a time, [learn more about Hangman](https://www.wikihow.com/Play-Hangman)

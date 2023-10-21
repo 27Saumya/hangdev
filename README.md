@@ -1,6 +1,8 @@
 <h1 align="center">Hangdev</h1>
 
-![demo](https://i.imgur.com/pwutUSK.gif)
+<p align="center">
+  <img src="https://i.imgur.com/pwutUSK.gif" alt="Demo" />
+</p>
 
 ### Overview
 

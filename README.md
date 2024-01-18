@@ -10,7 +10,7 @@
 
 ### Overview
 
-This is a blazing fast ⚡, command line game, inspired from Hangman, in which you have to guess a word by entering one letter at a time! ([learn more about Hangman](https://www.wikihow.com/Play-Hangman))
+This is a blazing fast ⚡, command line game, inspired from ([Hangman](https://www.wikihow.com/Play-Hangman)), in which you have to guess a word by entering one letter at a time!
 
 Bored or tired of coding a big project? Need some rest, but can't find a game to play within your terminal? Hangdev is the right stop, play any moment, unlimited times!
 
